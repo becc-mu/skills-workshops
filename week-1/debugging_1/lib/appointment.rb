@@ -11,7 +11,7 @@ class Appointment
   end
 
   def pretty_location
-    geo_location.formatted_address
+    "50 Commercial St, London E1 6LT, UK"
   end
 
   private
